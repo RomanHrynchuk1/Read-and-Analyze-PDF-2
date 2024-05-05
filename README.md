@@ -76,7 +76,7 @@ Page object has function extract_text() to extract text from the PDF page.
 
 **Note:** While PDF files are great for laying out text in a way that’s easy for people to print and read, they’re not straightforward for software to parse into plaintext. As such, pypdf might make mistakes when extracting text from a PDF and may even be unable to open some PDFs at all. It isn’t much you can do about this, unfortunately. pypdf may simply be unable to work with some of your particular PDF files.
 
-## 2. How to read the PDF files in flat/image format using the OpenAI vision model
+## 3. How to read the PDF files in flat/image format using the OpenAI vision model
 
 The current best OpenAI vision model is "GPG-4-Turbo"
 
@@ -149,4 +149,4 @@ def image_to_text(image_local):
     return result
 ```
 
-**This is a skill that anyone can learn with dedication! Best regards.**
+**❤️ Cheer up! This is a skill that anyone can learn with dedication! Best regards. ❤️**
